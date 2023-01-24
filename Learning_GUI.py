@@ -4,6 +4,7 @@ import random, time, os
 #Get the chars to use in the password
 chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIGKLMNIOPQRSTUVWXYZ1234567890!@#$%^&*()_+=,./;"
 
+#Start the GUI
 root = Tk()
 root.title("Password Generator")
 root.geometry('375x350')
