@@ -1,0 +1,20 @@
+print ("Hello World\nAdam is hot as fuck")
+
+person = "Adam"
+person2 = "Alek"
+dog1 = "Willow"
+dog2 = "Disney"
+dog3 = "Lincoln"
+
+list_dog = ["Willow", "Disney", "Lincoln"]
+
+list_vegetables = ["carrot", "cucumber", "avocado", "pepper"]
+
+print(dog1+dog2)
+print("1: My Dog is " "Disney")
+print("2: My Dog is " + dog2)
+print("3: My Dog is: " + dog2 + "\nErica's Dog is: " + dog1)
+
+print("Nick's Dog is: " + list_dog[-1])
+print("Nick's Dog is: " + list_dog[2])
+print("I bought a " + list_vegetables[1] + " and a" + list_vegetables[3])
